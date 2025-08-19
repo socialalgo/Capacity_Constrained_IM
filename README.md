@@ -48,7 +48,7 @@ Run the experiments on *DNC* dataset, with $k=10,\epsilon=0.05$, with the CELF g
 **exp_gamma.cpp**: Calculate the curvature for a graph and a query set.
 
 
-#### Reference
+## Reference
 ```
 @inproceedings{ccim,
   author       = {Shiqi Zhang and
