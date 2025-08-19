@@ -47,3 +47,22 @@ Run the experiments on *DNC* dataset, with $k=10,\epsilon=0.05$, with the CELF g
 
 **exp_gamma.cpp**: Calculate the curvature for a graph and a query set.
 
+
+#### Reference
+```
+@inproceedings{ccim,
+  author       = {Shiqi Zhang and
+                  Yiqian Huang and
+                  Jiachen Sun and
+                  Wenqing Lin and
+                  Xiaokui Xiao and
+                  Bo Tang},
+  title        = {Capacity Constrained Influence Maximization in Social Networks},
+  booktitle    = {Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, {KDD} 2023, Long Beach, CA, USA, August 6-10, 2023},
+  pages        = {3376--3385},
+  publisher    = {{ACM}},
+  year         = {2023}
+}
+```
+
